@@ -640,7 +640,7 @@ del "C:\PKHMGDB\DB\Gen7\0201 SM - 禾弗本件? Eevee (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\0201 SM - 禾弗本件? Pikachu (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\0289 SMUSUM - 禾弗本件 Shaymin (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\0293 USUM - Item Roto Hatch x4 & Roto Exp. Points x4 (JPN).wc7full" >nul
-del "C:\PKHMGDB\DB\Gen7\0293 USUM - Item Roto HP Restore x4 & Roto Boost x4.wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\0293 USUM - Item Roto HP Restore x4 & Roto Boost x4 (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\0293 USUM - Item Roto Prize Money x4 & Roto Bargain x4 (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\0650 M - 2018 Legends Xerneas (ENG).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\0650 M - Legenden2018 Xerneas (GER).wc7full" >nul
@@ -848,3 +848,10 @@ del "C:\PKHMGDB\DB\Gen7\1633 USUM - Akala Shiny Tapu Lele (ITA).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1633 USUM - Akala Shiny Tapu Lele (SPA).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1633 USUM - 失奈市仿 Shiny Tapu Lele (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1633 USUM - ??? Shiny Tapu Lele (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (ENG).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (FRE).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (GER).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (ITA).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (JPN).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (SPA).wc7full" >nul
