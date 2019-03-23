@@ -855,3 +855,12 @@ del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & 
 del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (KOR).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1636 SMUSUM - Item Enigma Berry x12 & Micle Berry x12 & Custap Berry x12 & Jaboca Berry x12 & Rowap Berry x12 (SPA).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1152 UM - ????? Tornadus (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1152 US - ????? Thundurus (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1634 USUM - Ula-Ula Shiny Tapu Bulu (ENG).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1634 USUM - Ula-Ula Shiny Tapu Bulu (FRE).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1634 USUM - Ula-Ula Shiny Tapu Bulu (GER).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1634 USUM - Ula-Ula Shiny Tapu Bulu (ITA).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1634 USUM - Ula-Ula Shiny Tapu Bulu (SPA).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1634 USUM - ウラウラ Shiny Tapu Bulu (JPN).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1634 USUM - ???? Shiny Tapu Bulu (KOR).wc7full" >nul
