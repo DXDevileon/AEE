@@ -891,3 +891,14 @@ del "C:\PKHMGDB\DB\Gen7\2047 USUM - Item Battle Points x50 (ITA).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\2047 USUM - Item Battle Points x50 (JPN).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\2047 USUM - Item Battle Points x50 (KOR).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\2047 USUM - Item Battle Points x50 (SPA).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\2001 LGPE - (Trainer) Mew.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\0001 LGPE - ポケセン Chansey.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\0002 LGPE - はかせ Mewtwo.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\0003 LGPE - Item Pok└ Ball x100.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\0501 LGPE - Bullseye Shiny Eevee.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\0501 LGPE - Bullseye Shiny Pikachu.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1001 LGPE - ?????? Shiny Eevee.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1001 LGPE - ?????? Shiny Pikachu.wb7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1154 UM - ????? Latios (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1154 US - ????? Latias (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1635 USUM - ポニ Shiny Tapu Fini (JPN).wc7full" >nul
