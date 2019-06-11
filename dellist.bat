@@ -902,3 +902,12 @@ del "C:\PKHMGDB\DB\Gen7\1001 LGPE - ?????? Shiny Pikachu.wb7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1154 UM - ????? Latios (KOR).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1154 US - ????? Latias (KOR).wc7full" >nul
 del "C:\PKHMGDB\DB\Gen7\1635 USUM - ポニ Shiny Tapu Fini (JPN).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\0302 SMUSUM - てんさいピィ Nidoqueen (JPN).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1155 UM - ????? Reshiram (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1155 UM - ????? Zekrom (KOR).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1635 USUM - Poni Shiny Tapu Fini (ENG).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1635 USUM - Poni Shiny Tapu Fini (FRE).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1635 USUM - Poni Shiny Tapu Fini (GER).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1635 USUM - Poni Shiny Tapu Fini (ITA).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1635 USUM - Poni Shiny Tapu Fini (SPA).wc7full" >nul
+del "C:\PKHMGDB\DB\Gen7\1635 USUM - ?? Shiny Tapu Fini (KOR).wc7full" >nul
